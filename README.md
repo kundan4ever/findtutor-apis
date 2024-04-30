@@ -1,2 +1,2 @@
 # findtutor-apis
-Apis for findtutor applications
+Java Application to handle server request for Findtutor APIs
